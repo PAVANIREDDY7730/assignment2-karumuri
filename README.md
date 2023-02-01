@@ -20,12 +20,7 @@ I like volleyball because it is **sportive** game and it also gives me a lot of 
 [AboutMe_Link](AboutMe.md)
 
 ---
-|  Name of Country  |
-| :------------ | 
-| 1. Japan    |
-| 2. India  |
-| 3. UK        |
-| 4. Russia          |
+It aids in your understanding of the people's customs, traditions, and way of life in those countries. You are able to see everything from a larger range of perspectives.
 
 ### The places to visit as a tourist:
 
@@ -40,9 +35,9 @@ I like volleyball because it is **sportive** game and it also gives me a lot of 
 
 ### Funny Quotes
 
-> *“People say nothing is impossible, but I do nothing every day.”* ~ A. A. Milne
+> *“People say nothing is impossible, but I do nothing every day.”* *~ A. A. Milne*
 
-> *“People kept saying ‘Go Corona’ and it went to other countries to spread across the globe.”* ~ Invajy
+> *“People kept saying ‘Go Corona’ and it went to other countries to spread across the globe.”* *~ Invajy*
 
 ### Code Fencing
 
