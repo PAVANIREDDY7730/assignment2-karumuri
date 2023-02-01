@@ -29,7 +29,7 @@ I like volleyball because it is **sportive** game and it also gives me a lot of 
 
 ### The places to visit as a tourist:
 
-|  **Name of Country**  | *Why to visit* | *days to visit*|
+|  *Name of Country*  | *Why to visit* | *days to visit*|
 | :------------ | :------------: | :------------: |
 | 1. Japan    | To dine at local restaurants   | 45 |
 | 2. India          | To visit Taj Mahal   | 60 |
