@@ -18,3 +18,20 @@ I like volleyball because it is **sportive** game and it also gives me a lot of 
 * Dehli Captials
 
 [AboutMe_Link](AboutMe.md)
+
+---
+|  Name of Country  |
+| :------------ | 
+| 1. Japan    |
+| 2. India  |
+| 3. UK        |
+| 4. Russia          |
+
+### The places to visit as a tourist:
+
+|  **Name of Country**  | *Why to visit* | *days to visit*|
+| :------------ | :------------: | :------------: |
+| 1. Japan    | To dine at local restaurants   | 45 |
+| 2. India          | To visit Taj Mahal   | 60 |
+| 3. UK        | To visit Tower of London   | 86 |
+| 4. Russia         |  To look at the wonderful structure of Saint Petersburg | 45 |
