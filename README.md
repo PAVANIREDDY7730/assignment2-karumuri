@@ -35,3 +35,11 @@ I like volleyball because it is **sportive** game and it also gives me a lot of 
 | 2. India          | To visit Taj Mahal   | 60 |
 | 3. UK        | To visit Tower of London   | 86 |
 | 4. Russia         |  To look at the wonderful structure of Saint Petersburg | 45 |
+
+---
+
+### Funny Quotes
+
+> *“People say nothing is impossible, but I do nothing every day.”* ~ A. A. Milne
+
+> *“People kept saying ‘Go Corona’ and it went to other countries to spread across the globe.”* ~ Invajy
